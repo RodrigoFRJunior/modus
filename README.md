@@ -374,29 +374,7 @@ A aplicação Python passou a receber os comandos normalmente.
 
 ---
 
-## 📸 11. Registro visual
-
-> Adicione aqui fotos e registros do desenvolvimento.
-
-![Modus - Protótipo](assets/)
-
-> Foto do Arduino UNO + protoboard + botões.
-
-### 🖥️ Interface
-
-> Screenshot da interface gráfica do Modus.
-
-### 🎛️ Configuração
-
-> Screenshot da tela de configuração dos botões.
-
-### 🚀 Funcionamento
-
-> Foto/vídeo do Modus executando uma ação no computador.
-
----
-
-## 📈 12. Evolução do projeto
+## 📈 11. Evolução do projeto
 
 | Data | Alteração | Resultado |
 | --- | --- | --- |
@@ -411,7 +389,7 @@ A aplicação Python passou a receber os comandos normalmente.
 
 ---
 
-## 🧠 13. O que aprendi
+## 🧠 12. O que aprendi
 
 Durante o desenvolvimento do Modus, foram trabalhados conceitos de:
 
@@ -430,23 +408,16 @@ Um dos principais aprendizados foi perceber que mesmo utilizando um **Arduino UN
 
 ---
 
-## 🚀 14. Melhorias futuras
+## 🚀 13. Melhorias futuras
 
-- [ ] Criar versão com 8 botões
 - [ ] Criar versão com mais botões
 - [ ] Adicionar atalhos de teclado personalizados
-- [ ] Criar gravador de atalhos
 - [ ] Criar sistema de perfis
 - [ ] Adicionar ícones personalizados aos botões
 - [ ] Melhorar a interface gráfica
 - [ ] Criar inicialização automática com o Windows
-- [ ] Gerar versão executável `.exe`
-- [ ] Criar versão portátil
 - [ ] Criar versão específica para streaming
 - [ ] Integrar com OBS Studio
-- [ ] Criar controle de cenas
-- [ ] Criar controle de áudio
-- [ ] Adicionar comandos específicos para transmissões
 - [ ] Avaliar comunicação sem fio
 - [ ] Criar uma versão utilizando outros microcontroladores
 
@@ -456,30 +427,38 @@ Um dos principais aprendizados foi perceber que mesmo utilizando um **Arduino UN
 
 ### Documentação
 
-- Documentação oficial do Arduino
-- Documentação do Python
-- Documentação do CustomTkinter
-- Documentação do PySerial
+- Documentação oficial do Arduino: https://docs.arduino.cc/.
+- Documentação do Python: https://docs.python.org/3.13/.
+- Documentação do CustomTkinter: https://customtkinter-tomschimansky-com.translate.goog/documentation/?._x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.
+- Documentação do PySerial: https://pyserial.readthedocs.io/en/latest/.
 
 ### Artigos / Tutoriais
 
 - Pesquisas e estudos realizados durante o desenvolvimento.
 
+https://embarcados.com.br/arduino-comunicacao-serial/
+
+https://docs.arduino.cc/language-reference/pt/fun%C3%A7%C3%B5es/communication/serial/
+
+
 ### Vídeos
 
 - Conteúdos utilizados como apoio durante os testes e desenvolvimento.
+
+JuliaLabs, Stream Deck DIY: Projeto Completo do Zero 🛠️
+- https://www.youtube.com/watch?v=X_ZKeOIq-ek&t=19s
 
 ### Outros projetos
 
 - Projetos de controladores físicos e interfaces de automação utilizados como referência conceitual.
 
+Stream Deck da elgato: https://www.elgato.com/lm/pt/p/stream-deck-mini
 ---
 
 ## 📎 16. Arquivos do projeto
 
-- 💻 Código Arduino: `/arduino`
+- 💻 Código Arduino: `/codigo_modus.py`
 - 🐍 Aplicação Python: `/software`
-- ⚙️ Configurações: `/software/config.json`
 - 🔌 Circuito: `/hardware`
 - 📐 Modelagem 3D: `/3d`
 - 🖼️ Imagens: `/assets`
