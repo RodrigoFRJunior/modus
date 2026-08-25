@@ -431,8 +431,7 @@ Um dos principais aprendizados foi perceber que mesmo utilizando um **Arduino UN
 
 - Documentação do Python: https://docs.python.org/3.13/.
 
-- Documentação do CustomTkinter: https://customtkinter-tomschimansky-com.translate.goog/documentation/?.
-_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.
+- Documentação do CustomTkinter: https://customtkinter-tomschimansky-com.translate.goog/documentation/?._x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.
 
 - Documentação do PySerial: https://pyserial.readthedocs.io/en/latest/.
 
