@@ -423,22 +423,26 @@ Um dos principais aprendizados foi perceber que mesmo utilizando um **Arduino UN
 
 ---
 
-## 📚 15. Referências
+## 📚 14. Referências
 
 ### Documentação
 
 - Documentação oficial do Arduino: https://docs.arduino.cc/.
+
 - Documentação do Python: https://docs.python.org/3.13/.
-- Documentação do CustomTkinter: https://customtkinter-tomschimansky-com.translate.goog/documentation/?._x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.
+
+- Documentação do CustomTkinter: https://customtkinter-tomschimansky-com.translate.goog/documentation/?.
+_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.
+
 - Documentação do PySerial: https://pyserial.readthedocs.io/en/latest/.
 
 ### Artigos / Tutoriais
 
 - Pesquisas e estudos realizados durante o desenvolvimento.
 
-https://embarcados.com.br/arduino-comunicacao-serial/
+   https://embarcados.com.br/arduino-comunicacao-serial/
 
-https://docs.arduino.cc/language-reference/pt/fun%C3%A7%C3%B5es/communication/serial/
+   https://docs.arduino.cc/language-reference/pt/fun%C3%A7%C3%B5es/communication/serial/
 
 
 ### Vídeos
@@ -455,34 +459,13 @@ JuliaLabs, Stream Deck DIY: Projeto Completo do Zero 🛠️
 Stream Deck da elgato: https://www.elgato.com/lm/pt/p/stream-deck-mini
 ---
 
-## 📎 16. Arquivos do projeto
+## 📎 15. Arquivos do projeto
 
-- 💻 Código Arduino: `/codigo_modus.py`
-- 🐍 Aplicação Python: `/software`
-- 🔌 Circuito: `/hardware`
-- 📐 Modelagem 3D: `/3d`
-- 🖼️ Imagens: `/assets`
-- 📄 Documentação: `/docs`
-
----
-
-## ✅ 17. Checklist final
-
-- [x] Projeto descrito
-- [x] Objetivo definido
-- [x] Funcionalidades documentadas
-- [x] Arquitetura registrada
-- [x] Tecnologias registradas
-- [x] Dependências registradas
-- [x] Instalação documentada
-- [x] Execução documentada
-- [x] Testes registrados
-- [x] Problemas e soluções registrados
-- [ ] Imagens adicionadas
-- [x] Melhorias futuras registradas
-- [x] Referências adicionadas
-- [ ] Código/arquivos anexados
-- [x] Documentação revisada
+- 💻 Código Arduino: `/Código_ArduinoModus.ino`
+- 🐍 Código Python: `/codigo_modus.py`
+- 🐍 Aplicação Python: `/Modus.exe`
+- 🔌 Circuito: `/Circuito - Modus.png`
+- 📐 Modelagem 3D: `/Case - Modus.stl`
 
 ---
 
@@ -500,6 +483,6 @@ O projeto também servirá como base para uma futura versão voltada ao controle
 
 ## ⭐ Projeto
 
-**Modus — Hardware simples. Software flexível.**
+**Modus um Hardware simples. Software flexível.**
 
-Desenvolvido por **Rodrigo Felipe**.
+Desenvolvido por **Rodrigo Felipe Rodrigues Junior**.
